@@ -1,7 +1,12 @@
 # Aula Zero
 
 - [ ] Setup do Banco
-- Seeding do Banco (colocar dados)
+- [ ] Seeding do Banco (colocar dados)
+- [ ] Acrescentar no package.json 
+  "prisma": {
+    "seed": "ts-node prisma/seed.ts"
+  },
+  npm install -D ts-node
 - [ ] Intro ao Next.js
 - [ ] Tailwind e Shadcn
 - [ ] Git Hooks
